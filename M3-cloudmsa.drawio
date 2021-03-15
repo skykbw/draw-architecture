@@ -1,10 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T14:34:51.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="YyuF1BCt9DtCr26J5swh" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T15:07:26.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="EEOpDuE4T14H7MoMSPZQ" version="14.4.8" type="github">
   <diagram id="TLjivy0L8eHgeSfbeFxp" name="Deployment">
-    <mxGraphModel dx="1074" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qpYdVG-Uh_UyKHaodbcv-2" value="Google Cloud Platform" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=0;align=left;horizontal=1;verticalAlign=top;size=10;" vertex="1" parent="1">
+        <mxCell id="qpYdVG-Uh_UyKHaodbcv-100" value="Google Cloud Platform (GKE)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=0;align=left;horizontal=1;verticalAlign=top;size=10;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="130" width="1210" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="qpYdVG-Uh_UyKHaodbcv-96" value="Node - 2" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=0;align=left;horizontal=1;verticalAlign=top;size=10;" vertex="1" parent="1">
+          <mxGeometry y="185" width="1040" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="qpYdVG-Uh_UyKHaodbcv-2" value="Node - 1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=0;align=left;horizontal=1;verticalAlign=top;size=10;" vertex="1" parent="1">
           <mxGeometry x="30" y="220" width="1040" height="460" as="geometry" />
         </mxCell>
         <mxCell id="qpYdVG-Uh_UyKHaodbcv-7" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
