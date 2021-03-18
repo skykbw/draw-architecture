@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T11:22:10.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="W-a4T5eV1Ty8q9CAudfj" version="14.4.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-18T11:24:19.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="05mIwyI8njphoUEHuaYu" version="14.4.8" type="github" pages="3">
   <diagram id="VvSvAjnXlckOY-ctjWA4" name="실행뷰">
     <mxGraphModel dx="2075" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -332,11 +332,11 @@
       <root>
         <mxCell id="Pf3UTbEj2pQNvaeOW73--0" />
         <mxCell id="Pf3UTbEj2pQNvaeOW73--1" parent="Pf3UTbEj2pQNvaeOW73--0" />
-        <mxCell id="brBrjiB1-AeFw_QQMUli-0" value="Google Cloud Platform (GKE)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=0;align=left;horizontal=1;verticalAlign=top;size=10;" vertex="1" parent="Pf3UTbEj2pQNvaeOW73--1">
-          <mxGeometry x="-70" y="40" width="1030" height="570" as="geometry" />
+        <mxCell id="brBrjiB1-AeFw_QQMUli-0" value="Google Cloud Platform" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=0;align=left;horizontal=1;verticalAlign=top;size=10;" vertex="1" parent="Pf3UTbEj2pQNvaeOW73--1">
+          <mxGeometry x="-70" y="40" width="760" height="570" as="geometry" />
         </mxCell>
         <mxCell id="brBrjiB1-AeFw_QQMUli-1" value="Host (VM)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=0;align=left;horizontal=1;verticalAlign=top;size=10;" vertex="1" parent="Pf3UTbEj2pQNvaeOW73--1">
-          <mxGeometry x="-30" y="95" width="950" height="490" as="geometry" />
+          <mxGeometry x="-30" y="95" width="700" height="490" as="geometry" />
         </mxCell>
         <mxCell id="brBrjiB1-AeFw_QQMUli-13" value="Docker" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=0;align=left;horizontal=1;verticalAlign=top;size=10;" vertex="1" parent="Pf3UTbEj2pQNvaeOW73--1">
           <mxGeometry y="140" width="260" height="410" as="geometry" />
