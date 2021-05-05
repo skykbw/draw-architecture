@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T03:35:25.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="6LD1fInNWA55_9C3r9Ef" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-05T03:35:34.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="lE6lKgjl6spXJWK_Oiwj" version="14.6.9" type="github">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Page-1">
     <mxGraphModel dx="1064" dy="995" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Jzfh_xaqkJ6aPSy0chp_-12" value="System" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="240" y="50" width="420" height="449" as="geometry" />
+          <mxGeometry x="240" y="50" width="420" height="446" as="geometry" />
         </mxCell>
         <mxCell id="Jzfh_xaqkJ6aPSy0chp_-1" value="사용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="207" width="30" height="60" as="geometry" />
