@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T01:26:21.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ymYxym93otof3ZYgM7vJ" version="14.9.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-20T01:29:33.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="7MeyNHR0F-azQpc5gdzR" version="14.9.0" type="github" pages="5">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="373" dy="668" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -790,7 +790,7 @@
           <mxGeometry x="610" y="255" width="140" height="115" as="geometry" />
         </mxCell>
         <mxCell id="u13WsyT92XLgWAgxU8R4-20" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;" vertex="1" parent="u13WsyT92XLgWAgxU8R4-1">
-          <mxGeometry x="770" y="150" width="130" height="240" as="geometry" />
+          <mxGeometry x="770" y="150" width="130" height="330" as="geometry" />
         </mxCell>
         <mxCell id="u13WsyT92XLgWAgxU8R4-21" value="CI / CD" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=10;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="u13WsyT92XLgWAgxU8R4-1">
           <mxGeometry x="610" y="578.5" width="140" height="90" as="geometry" />
@@ -1127,6 +1127,12 @@
             <mxPoint x="607.9200000000001" y="750.6400000000001" as="sourcePoint" />
             <mxPoint x="764" y="737" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="u13WsyT92XLgWAgxU8R4-115" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#CC0066;align=center;verticalAlign=middle;dashed=1;strokeWidth=3;strokeColor=#CC0000;" vertex="1" parent="u13WsyT92XLgWAgxU8R4-1">
+          <mxGeometry x="784.5" y="386" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u13WsyT92XLgWAgxU8R4-116" value="구현범위" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="u13WsyT92XLgWAgxU8R4-1">
+          <mxGeometry x="837" y="380" width="63" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
