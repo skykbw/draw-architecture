@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T12:00:14.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="z0mZl7HslFqx8mtOCwTI" version="14.9.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-20T12:12:05.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ryV-CrsCCOetijTDNFLA" version="14.9.0" type="github" pages="7">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="1064" dy="995" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1684,7 +1684,7 @@
         <mxCell id="179P7CkjbdNP1djtOoth-131" value="Permission&lt;br&gt;DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PM9OvxG8A4IlOT5kqzDo-1">
           <mxGeometry x="546.5" y="624.1600000000001" width="55" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="179P7CkjbdNP1djtOoth-132" value="외부 저장소&amp;nbsp;&lt;br&gt;추가를 요청한다" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="PM9OvxG8A4IlOT5kqzDo-1" source="179P7CkjbdNP1djtOoth-121" target="179P7CkjbdNP1djtOoth-117">
+        <mxCell id="179P7CkjbdNP1djtOoth-132" value="&lt;font style=&quot;font-size: 7px&quot;&gt;외부 저장소&amp;nbsp;&lt;br style=&quot;font-size: 7px&quot;&gt;추가 요청을 &lt;br&gt;조회한다.&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="PM9OvxG8A4IlOT5kqzDo-1" source="179P7CkjbdNP1djtOoth-121" target="179P7CkjbdNP1djtOoth-117">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="119" y="744.1600000000001" as="sourcePoint" />
           </mxGeometry>
@@ -1697,7 +1697,7 @@
         <mxCell id="179P7CkjbdNP1djtOoth-134" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="PM9OvxG8A4IlOT5kqzDo-1">
           <mxGeometry x="273" y="774.1600000000001" width="10" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="179P7CkjbdNP1djtOoth-135" value="&lt;font style=&quot;font-size: 8px&quot;&gt;외부 저장소&lt;br style=&quot;font-size: 8px&quot;&gt;추가 요청을&lt;br&gt;호출한다&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="PM9OvxG8A4IlOT5kqzDo-1" target="179P7CkjbdNP1djtOoth-134">
+        <mxCell id="179P7CkjbdNP1djtOoth-135" value="&lt;span style=&quot;font-size: 7px&quot;&gt;추가 요청 조회를&amp;nbsp;&lt;br style=&quot;font-size: 7px&quot;&gt;호출한다&lt;br&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="PM9OvxG8A4IlOT5kqzDo-1" target="179P7CkjbdNP1djtOoth-134">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="774.1600000000001" as="sourcePoint" />
           </mxGeometry>
