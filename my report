@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T04:54:14.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ifu1bTUpSKr1XiCxQUjw" version="14.9.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-07-21T04:54:57.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="5TQTsrn9kSSdoUdCMCkg" version="14.9.0" type="github" pages="6">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="1248" dy="677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1683,12 +1683,13 @@
             <mxPoint x="381.5" y="1095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LgqFrR-8Le9BhNV1Ei1f-34" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontFamily=Helvetica;fontSize=11;" edge="1" target="LgqFrR-8Le9BhNV1Ei1f-33" parent="6iAum1OG0ZWhYh1cpHSN-1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="LgqFrR-8Le9BhNV1Ei1f-34" value="저장소 목록 &lt;br&gt;조회를 요청한다." style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontFamily=Helvetica;fontSize=11;" edge="1" target="LgqFrR-8Le9BhNV1Ei1f-33" parent="6iAum1OG0ZWhYh1cpHSN-1">
+          <mxGeometry x="-0.0057" y="-35" relative="1" as="geometry">
             <mxPoint x="99.5" y="1176.8400000000004" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LgqFrR-8Le9BhNV1Ei1f-35" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;fontFamily=Helvetica;fontSize=11;" edge="1" source="LgqFrR-8Le9BhNV1Ei1f-33" parent="6iAum1OG0ZWhYh1cpHSN-1">
+        <mxCell id="LgqFrR-8Le9BhNV1Ei1f-35" value="요청 완료" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;fontFamily=Helvetica;fontSize=11;" edge="1" source="LgqFrR-8Le9BhNV1Ei1f-33" parent="6iAum1OG0ZWhYh1cpHSN-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="99.5" y="1317.592" as="targetPoint" />
           </mxGeometry>
