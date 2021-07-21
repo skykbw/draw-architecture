@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T04:57:21.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="mwt2SPbjtcajeFsFQIRw" version="14.9.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-07-21T05:11:43.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="hgYUjgXL7-wdULfk9sYp" version="14.9.0" type="github" pages="7">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="1248" dy="677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1723,6 +1723,77 @@
         </mxCell>
         <mxCell id="d0RouX-AjBEjqbs8r_sE-1" value="[Anlaysis Type = Rule-Program]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="6iAum1OG0ZWhYh1cpHSN-1">
           <mxGeometry x="673" y="946" width="147.5" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="시나리오 3" id="Kwv2EyO_EUN5X388_-0a">
+    <mxGraphModel dx="981" dy="126" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-0" />
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-1" parent="9W7-6G1LQULO9NZ_xi5l-0" />
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-1">
+          <mxGeometry x="240" y="593" width="293" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-3" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-1">
+          <mxGeometry x="455" y="655" width="40" height="679" as="geometry" />
+        </mxCell>
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-8" value="&lt;font color=&quot;#0000cc&quot;&gt;Service &amp;amp; DB&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-1">
+          <mxGeometry x="339" y="590" width="81" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-9" value="" style="group;labelBackgroundColor=none;" vertex="1" connectable="0" parent="9W7-6G1LQULO9NZ_xi5l-1">
+          <mxGeometry x="160" y="617" width="685" height="925" as="geometry" />
+        </mxCell>
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-10" value="Front-end" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-9">
+          <mxGeometry y="5.780704704143892" width="55" height="25.668527678583423" as="geometry" />
+        </mxCell>
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-11" value="" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-9">
+          <mxGeometry x="5" y="32.34" width="50" height="691.66" as="geometry" />
+        </mxCell>
+        <mxCell id="p-37qog3LmF00_yv19oH-0" value="" style="group" vertex="1" connectable="0" parent="9W7-6G1LQULO9NZ_xi5l-9">
+          <mxGeometry x="390" y="-17" width="40" height="747" as="geometry" />
+        </mxCell>
+        <mxCell id="p-37qog3LmF00_yv19oH-1" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="p-37qog3LmF00_yv19oH-0">
+          <mxGeometry x="10" y="48.6" width="20" height="698.4" as="geometry" />
+        </mxCell>
+        <mxCell id="p-37qog3LmF00_yv19oH-2" value="관리자" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="p-37qog3LmF00_yv19oH-0">
+          <mxGeometry y="8.507079508324257" width="40" height="32.39999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="e2UR6whYLLU5SgukeAZx-0" value="REF" style="shape=umlFrame;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=none;labelBackgroundColor=#FFFFFF;" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-9">
+          <mxGeometry x="-128" y="103" width="577" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-16" value="" style="group" vertex="1" connectable="0" parent="9W7-6G1LQULO9NZ_xi5l-1">
+          <mxGeometry x="80" y="598" width="316" height="729" as="geometry" />
+        </mxCell>
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-17" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-16">
+          <mxGeometry x="10" y="48.6" width="20" height="680.3999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-18" value="사용자" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-16">
+          <mxGeometry y="8.507079508324257" width="40" height="32.39999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="r9eEkDZLR04gDVDQWPfX-1" value="&lt;p style=&quot;line-height: 130%&quot;&gt;UC01. 외부 사이트 저장소 추가를 요청한다.&lt;/p&gt;&lt;p style=&quot;line-height: 130%&quot;&gt;UC02. 외부 사이트 저장소를 등록한다.&lt;/p&gt;&lt;p style=&quot;line-height: 130%&quot;&gt;UC03. 저장소 접근 권한을 요청한다.&lt;/p&gt;&lt;p style=&quot;line-height: 150%&quot;&gt;UC04. 저장소 접근 권한을 부여한다.&lt;/p&gt;" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;labelBackgroundColor=#FFFFFF;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-16">
+          <mxGeometry x="-13" y="202" width="329" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-19" value="" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-1">
+          <mxGeometry x="257.5" y="649.16" width="40" height="687.84" as="geometry" />
+        </mxCell>
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-20" value="Alarm&lt;br&gt;Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-1">
+          <mxGeometry x="250" y="624.1600000000001" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-21" value="" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-1">
+          <mxGeometry x="356.5" y="651.16" width="40" height="681.84" as="geometry" />
+        </mxCell>
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-22" value="User&lt;br&gt;DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-1">
+          <mxGeometry x="447.5" y="624.1600000000001" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-23" value="Common&lt;br&gt;Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-1">
+          <mxGeometry x="349" y="624.1600000000001" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-26" value="&lt;font color=&quot;#0000cc&quot;&gt;Web&lt;/font&gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-1">
+          <mxGeometry x="170" y="594" width="46" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="9W7-6G1LQULO9NZ_xi5l-27" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;fillColor=none;" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-1">
+          <mxGeometry x="151" y="593" width="83" height="112" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
