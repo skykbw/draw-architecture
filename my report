@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T05:54:22.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Xa_D_PxEJYIjsS3FFhtS" version="14.9.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-21T05:55:49.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="rUlEHE8FfsL_R5kxTEQf" version="14.9.0" type="github" pages="7">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="1248" dy="677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1865,7 +1865,7 @@
         <mxCell id="N19KZsEUJ9tYTvW2VNq9-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-1">
           <mxGeometry x="374.67" y="785.16" width="10" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="N19KZsEUJ9tYTvW2VNq9-4" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=0.983;exitY=0.154;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="N19KZsEUJ9tYTvW2VNq9-3" parent="9W7-6G1LQULO9NZ_xi5l-1">
+        <mxCell id="N19KZsEUJ9tYTvW2VNq9-4" value="로그 정보를 호출한다." style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=0.983;exitY=0.154;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="N19KZsEUJ9tYTvW2VNq9-3" parent="9W7-6G1LQULO9NZ_xi5l-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="196.00000000000014" y="786.76836" as="sourcePoint" />
           </mxGeometry>
@@ -1875,7 +1875,7 @@
             <mxPoint x="99.66666666666674" y="896.6729999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N19KZsEUJ9tYTvW2VNq9-1" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="N19KZsEUJ9tYTvW2VNq9-0" parent="9W7-6G1LQULO9NZ_xi5l-1">
+        <mxCell id="N19KZsEUJ9tYTvW2VNq9-1" value="로그 화면을 &lt;br&gt;요청한다." style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="N19KZsEUJ9tYTvW2VNq9-0" parent="9W7-6G1LQULO9NZ_xi5l-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="99.66666666666674" y="770" as="sourcePoint" />
           </mxGeometry>
@@ -1888,12 +1888,12 @@
         <mxCell id="N19KZsEUJ9tYTvW2VNq9-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-1">
           <mxGeometry x="469" y="795" width="10" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="N19KZsEUJ9tYTvW2VNq9-17" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="N19KZsEUJ9tYTvW2VNq9-16" parent="9W7-6G1LQULO9NZ_xi5l-1" source="N19KZsEUJ9tYTvW2VNq9-3">
+        <mxCell id="N19KZsEUJ9tYTvW2VNq9-17" value="요청 이력&lt;br&gt;로그 호출" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="N19KZsEUJ9tYTvW2VNq9-16" parent="9W7-6G1LQULO9NZ_xi5l-1" source="N19KZsEUJ9tYTvW2VNq9-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="399" y="795" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N19KZsEUJ9tYTvW2VNq9-18" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="N19KZsEUJ9tYTvW2VNq9-16" parent="9W7-6G1LQULO9NZ_xi5l-1" target="N19KZsEUJ9tYTvW2VNq9-3">
+        <mxCell id="N19KZsEUJ9tYTvW2VNq9-18" value="호출 완료" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="N19KZsEUJ9tYTvW2VNq9-16" parent="9W7-6G1LQULO9NZ_xi5l-1" target="N19KZsEUJ9tYTvW2VNq9-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="399" y="871" as="targetPoint" />
           </mxGeometry>
@@ -1901,7 +1901,7 @@
         <mxCell id="N19KZsEUJ9tYTvW2VNq9-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="9W7-6G1LQULO9NZ_xi5l-1">
           <mxGeometry x="578" y="844" width="10" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="N19KZsEUJ9tYTvW2VNq9-21" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="N19KZsEUJ9tYTvW2VNq9-20" parent="9W7-6G1LQULO9NZ_xi5l-1" source="N19KZsEUJ9tYTvW2VNq9-3">
+        <mxCell id="N19KZsEUJ9tYTvW2VNq9-21" value="시스템 관리 로그 호출" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="N19KZsEUJ9tYTvW2VNq9-20" parent="9W7-6G1LQULO9NZ_xi5l-1" source="N19KZsEUJ9tYTvW2VNq9-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="508" y="844" as="sourcePoint" />
           </mxGeometry>
