@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T11:37:19.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="yRNX1zlf4h-vGCNsHoS8" version="14.9.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-07-21T11:39:03.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="YjTdFAltGVPqOxPm-McG" version="14.9.0" type="github" pages="9">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="1248" dy="677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2019,8 +2019,11 @@
             <mxPoint x="501" y="392" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhICovbx5iN0WahdvJmk-65" value="{Json Data}" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="rhICovbx5iN0WahdvJmk-7">
-          <mxGeometry x="52" y="428" width="69" height="23" as="geometry" />
+        <mxCell id="rhICovbx5iN0WahdvJmk-213" value="HTML" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;verticalAlign=top;size=11;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="rhICovbx5iN0WahdvJmk-7">
+          <mxGeometry x="72" y="421" width="32" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rhICovbx5iN0WahdvJmk-214" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/16/refresh-128.png;sketch=0;" vertex="1" parent="rhICovbx5iN0WahdvJmk-7">
+          <mxGeometry x="-10" y="403" width="31" height="31" as="geometry" />
         </mxCell>
         <mxCell id="rhICovbx5iN0WahdvJmk-13" value="" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="VIIgNPEn0UwpRK73NmCw-1">
           <mxGeometry x="275.5" y="179.15999999999997" width="40" height="676.84" as="geometry" />
@@ -2289,6 +2292,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="303.67" y="1343" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rhICovbx5iN0WahdvJmk-215" value="Reload" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="VIIgNPEn0UwpRK73NmCw-1">
+          <mxGeometry x="84" y="564" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
