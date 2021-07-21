@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T04:30:25.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="RD_-U0kgyazxRJd7uba3" version="14.9.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-21T04:31:02.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="L1gvkW82il1oc6Mo-QUv" version="14.9.0" type="github" pages="7">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="1248" dy="677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1920,7 +1920,7 @@
           <mxGeometry x="339" y="590" width="81" height="27" as="geometry" />
         </mxCell>
         <mxCell id="gGCVssuhRdpzFAnHBlAY-3" value="" style="group" vertex="1" connectable="0" parent="6iAum1OG0ZWhYh1cpHSN-1">
-          <mxGeometry x="160" y="617" width="69" height="718" as="geometry" />
+          <mxGeometry x="160" y="617" width="685" height="925" as="geometry" />
         </mxCell>
         <mxCell id="gGCVssuhRdpzFAnHBlAY-4" value="Front-end" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGCVssuhRdpzFAnHBlAY-3">
           <mxGeometry y="5.780704704143892" width="55" height="25.668527678583423" as="geometry" />
@@ -1930,6 +1930,9 @@
         </mxCell>
         <mxCell id="LgqFrR-8Le9BhNV1Ei1f-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=11;verticalAlign=top;" vertex="1" parent="gGCVssuhRdpzFAnHBlAY-3">
           <mxGeometry x="27" y="540.84" width="10" height="148.16" as="geometry" />
+        </mxCell>
+        <mxCell id="YzJkHMt109XoMy1qLGt9-0" value="UC06" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=11;verticalAlign=top;" vertex="1" parent="gGCVssuhRdpzFAnHBlAY-3">
+          <mxGeometry x="-135" y="515" width="820" height="206" as="geometry" />
         </mxCell>
         <mxCell id="gGCVssuhRdpzFAnHBlAY-8" value="" style="group" vertex="1" connectable="0" parent="6iAum1OG0ZWhYh1cpHSN-1">
           <mxGeometry x="80" y="598" width="40" height="729" as="geometry" />
