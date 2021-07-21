@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T04:51:53.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="GqWfjEUrfrk3uLixbLeQ" version="14.9.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-07-21T04:52:58.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Z_MYnpQkO0qSSIEmoT28" version="14.9.0" type="github" pages="6">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="1248" dy="677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1606,14 +1606,15 @@
         <mxCell id="LBi3JLvKlV4-R_gryCZ4-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=8;verticalAlign=top;" vertex="1" parent="6iAum1OG0ZWhYh1cpHSN-1">
           <mxGeometry x="586.5" y="762" width="10" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="LBi3JLvKlV4-R_gryCZ4-4" value="다운로드를 호출한다." style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontFamily=Helvetica;fontSize=8;" edge="1" target="LBi3JLvKlV4-R_gryCZ4-3" parent="6iAum1OG0ZWhYh1cpHSN-1">
+        <mxCell id="LBi3JLvKlV4-R_gryCZ4-4" value="다운로드 규칙을 호출한다." style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontFamily=Helvetica;fontSize=8;" edge="1" target="LBi3JLvKlV4-R_gryCZ4-3" parent="6iAum1OG0ZWhYh1cpHSN-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="384" y="763" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LBi3JLvKlV4-R_gryCZ4-5" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;fontFamily=Helvetica;fontSize=8;entryX=1.4;entryY=0.274;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="LBi3JLvKlV4-R_gryCZ4-3" parent="6iAum1OG0ZWhYh1cpHSN-1" target="LBi3JLvKlV4-R_gryCZ4-0">
+        <mxCell id="LBi3JLvKlV4-R_gryCZ4-5" value="호출 완료" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontFamily=Helvetica;fontSize=8;" edge="1" parent="6iAum1OG0ZWhYh1cpHSN-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="382" y="794" as="targetPoint" />
+            <mxPoint x="377" y="844" as="targetPoint" />
+            <mxPoint x="592" y="844" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LBi3JLvKlV4-R_gryCZ4-7" value="" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="6iAum1OG0ZWhYh1cpHSN-1">
@@ -1627,7 +1628,7 @@
             <mxPoint x="591" y="816" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LBi3JLvKlV4-R_gryCZ4-12" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;fontFamily=Helvetica;fontSize=8;" edge="1" source="LBi3JLvKlV4-R_gryCZ4-10" parent="6iAum1OG0ZWhYh1cpHSN-1">
+        <mxCell id="LBi3JLvKlV4-R_gryCZ4-12" value="규칙 조회 완료" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;fontFamily=Helvetica;fontSize=8;" edge="1" source="LBi3JLvKlV4-R_gryCZ4-10" parent="6iAum1OG0ZWhYh1cpHSN-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="586" y="819" as="targetPoint" />
           </mxGeometry>
@@ -1635,12 +1636,12 @@
         <mxCell id="LgqFrR-8Le9BhNV1Ei1f-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=11;verticalAlign=top;" vertex="1" parent="6iAum1OG0ZWhYh1cpHSN-1">
           <mxGeometry x="781.75" y="872" width="10" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="LgqFrR-8Le9BhNV1Ei1f-16" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontFamily=Helvetica;fontSize=11;" edge="1" target="LgqFrR-8Le9BhNV1Ei1f-15" parent="6iAum1OG0ZWhYh1cpHSN-1">
+        <mxCell id="LgqFrR-8Le9BhNV1Ei1f-16" value="다운로드를 호출한다." style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontFamily=Helvetica;fontSize=11;" edge="1" target="LgqFrR-8Le9BhNV1Ei1f-15" parent="6iAum1OG0ZWhYh1cpHSN-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="384" y="872" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LgqFrR-8Le9BhNV1Ei1f-17" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;fontFamily=Helvetica;fontSize=11;" edge="1" source="LgqFrR-8Le9BhNV1Ei1f-15" parent="6iAum1OG0ZWhYh1cpHSN-1">
+        <mxCell id="LgqFrR-8Le9BhNV1Ei1f-17" value="호출 완료" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;fontFamily=Helvetica;fontSize=11;" edge="1" source="LgqFrR-8Le9BhNV1Ei1f-15" parent="6iAum1OG0ZWhYh1cpHSN-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="385" y="918" as="targetPoint" />
           </mxGeometry>
