@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T03:56:55.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="8BsFNrAYW4s6xgPfqxQW" version="14.9.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-21T03:58:31.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="C9oD90-y1nU7KZI9Yd60" version="14.9.0" type="github" pages="7">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="1248" dy="677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1730,8 +1730,8 @@
         <mxCell id="179P7CkjbdNP1djtOoth-134" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="PM9OvxG8A4IlOT5kqzDo-1" vertex="1">
           <mxGeometry x="272.5" y="1043" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="179P7CkjbdNP1djtOoth-135" value="&lt;span style=&quot;font-size: 7px&quot;&gt;요청 승인을&amp;nbsp;&lt;br&gt;호출한다.&lt;br&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="PM9OvxG8A4IlOT5kqzDo-1" target="179P7CkjbdNP1djtOoth-134" edge="1" source="179P7CkjbdNP1djtOoth-117">
-          <mxGeometry x="-0.0204" y="-35" relative="1" as="geometry">
+        <mxCell id="179P7CkjbdNP1djtOoth-135" value="&lt;span style=&quot;font-size: 6px&quot;&gt;요청 승인 &lt;br style=&quot;font-size: 6px&quot;&gt;저장을&amp;nbsp;&lt;br&gt;호출한다.&lt;br&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="PM9OvxG8A4IlOT5kqzDo-1" target="179P7CkjbdNP1djtOoth-134" edge="1" source="179P7CkjbdNP1djtOoth-117">
+          <mxGeometry x="-0.0204" y="-47" relative="1" as="geometry">
             <mxPoint x="203.82999999999993" y="863.6082633333335" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
