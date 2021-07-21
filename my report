@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T01:58:23.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="DLlFiAmgTfuOWYd9wI8X" version="14.9.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-21T02:03:48.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="y8omNfZQOpttd98tWqrP" version="14.9.0" type="github" pages="7">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="1248" dy="677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1824,6 +1824,12 @@
         </mxCell>
         <mxCell id="cqNRBV6Txx-Mo0PHQgtZ-17" value="&lt;div&gt;&lt;span style=&quot;font-size: 9px ; color: rgb(0 , 0 , 204)&quot;&gt;Vulnerability&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px ; color: rgb(0 , 0 , 204)&quot;&gt;Analysis&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="PM9OvxG8A4IlOT5kqzDo-1">
           <mxGeometry x="721.5" y="593" width="46" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="cqNRBV6Txx-Mo0PHQgtZ-19" value="UC01" style="shape=umlFrame;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=none;" vertex="1" parent="PM9OvxG8A4IlOT5kqzDo-1">
+          <mxGeometry x="28" y="126" width="391" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="cqNRBV6Txx-Mo0PHQgtZ-21" value="UC03" style="shape=umlFrame;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=none;" vertex="1" parent="PM9OvxG8A4IlOT5kqzDo-1">
+          <mxGeometry x="29" y="311" width="585" height="182" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
