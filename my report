@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T02:11:56.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="xVnpYTGKYY7Koup6lZxs" version="14.9.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-21T02:14:21.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="rWyJEqpeYBafT-vjIFBO" version="14.9.0" type="github" pages="7">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="1248" dy="677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1509,7 +1509,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V8gWUC4URuNM3k1NX-to" name="시나리오1">
-    <mxGraphModel dx="1673" dy="896" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PM9OvxG8A4IlOT5kqzDo-0" />
         <mxCell id="PM9OvxG8A4IlOT5kqzDo-1" parent="PM9OvxG8A4IlOT5kqzDo-0" />
@@ -1582,7 +1582,7 @@
         <mxCell id="179P7CkjbdNP1djtOoth-30" value="Repository&lt;br&gt;DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PM9OvxG8A4IlOT5kqzDo-1" vertex="1">
           <mxGeometry x="349" y="44.160000000000025" width="55" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="179P7CkjbdNP1djtOoth-31" value="" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="PM9OvxG8A4IlOT5kqzDo-1" vertex="1">
+        <mxCell id="179P7CkjbdNP1djtOoth-31" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="PM9OvxG8A4IlOT5kqzDo-1" vertex="1">
           <mxGeometry x="554" y="69.16000000000003" width="40" height="465" as="geometry" />
         </mxCell>
         <mxCell id="179P7CkjbdNP1djtOoth-32" value="Permission&lt;br&gt;DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PM9OvxG8A4IlOT5kqzDo-1" vertex="1">
@@ -1885,7 +1885,7 @@
           <mxGeometry x="250" y="624.1600000000001" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gGCVssuhRdpzFAnHBlAY-13" value="" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="6iAum1OG0ZWhYh1cpHSN-1">
-          <mxGeometry x="455" y="649.16" width="40" height="551.84" as="geometry" />
+          <mxGeometry x="356.5" y="651.16" width="40" height="551.84" as="geometry" />
         </mxCell>
         <mxCell id="gGCVssuhRdpzFAnHBlAY-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="gGCVssuhRdpzFAnHBlAY-13">
           <mxGeometry x="12" y="423.84" width="10" height="65" as="geometry" />
@@ -1893,27 +1893,8 @@
         <mxCell id="gGCVssuhRdpzFAnHBlAY-15" value="Permission&lt;br&gt;Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6iAum1OG0ZWhYh1cpHSN-1">
           <mxGeometry x="447.5" y="624.1600000000001" width="55" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gGCVssuhRdpzFAnHBlAY-16" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="6iAum1OG0ZWhYh1cpHSN-1">
-          <mxGeometry x="356.5" y="649.16" width="40" height="548.84" as="geometry" />
-        </mxCell>
-        <mxCell id="gGCVssuhRdpzFAnHBlAY-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="gGCVssuhRdpzFAnHBlAY-16">
-          <mxGeometry x="18.5" y="231.76" width="10" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="gGCVssuhRdpzFAnHBlAY-18" value="저장 완료" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="gGCVssuhRdpzFAnHBlAY-16" source="gGCVssuhRdpzFAnHBlAY-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-74" y="279.26" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gGCVssuhRdpzFAnHBlAY-19" value="&lt;font size=&quot;1&quot;&gt;요청 승인을&amp;nbsp;&lt;br&gt;저장한다&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="gGCVssuhRdpzFAnHBlAY-16" target="gGCVssuhRdpzFAnHBlAY-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-79.5" y="231.76" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gGCVssuhRdpzFAnHBlAY-20" value="Repository&lt;br&gt;DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6iAum1OG0ZWhYh1cpHSN-1">
+        <mxCell id="gGCVssuhRdpzFAnHBlAY-20" value="Download&lt;br&gt;Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6iAum1OG0ZWhYh1cpHSN-1">
           <mxGeometry x="349" y="624.1600000000001" width="55" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="gGCVssuhRdpzFAnHBlAY-21" value="" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="6iAum1OG0ZWhYh1cpHSN-1">
-          <mxGeometry x="554" y="649.16" width="40" height="555.84" as="geometry" />
         </mxCell>
         <mxCell id="gGCVssuhRdpzFAnHBlAY-22" value="Permission&lt;br&gt;DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6iAum1OG0ZWhYh1cpHSN-1">
           <mxGeometry x="546.5" y="624.1600000000001" width="55" height="20" as="geometry" />
