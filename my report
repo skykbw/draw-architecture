@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T04:31:02.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="L1gvkW82il1oc6Mo-QUv" version="14.9.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-21T04:32:41.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="PIzkYv2c5v-KAZTMUxCy" version="14.9.0" type="github" pages="7">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="1248" dy="677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1138,7 +1138,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="(번호) 개념 아키텍처" id="nFc-Xq4XURPCupAWR3lb">
-    <mxGraphModel dx="1064" dy="995" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="W2m1-UBFcEdi1l8f8y74-0" />
         <mxCell id="W2m1-UBFcEdi1l8f8y74-1" parent="W2m1-UBFcEdi1l8f8y74-0" />
@@ -1232,7 +1232,7 @@
         <mxCell id="W2m1-UBFcEdi1l8f8y74-31" value="Download&lt;br&gt;Service" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="W2m1-UBFcEdi1l8f8y74-1" vertex="1">
           <mxGeometry x="96" y="486" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="W2m1-UBFcEdi1l8f8y74-32" value="User&lt;br&gt;Service" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="W2m1-UBFcEdi1l8f8y74-1" vertex="1">
+        <mxCell id="W2m1-UBFcEdi1l8f8y74-32" value="Common&lt;br&gt;Service" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="W2m1-UBFcEdi1l8f8y74-1" vertex="1">
           <mxGeometry x="96" y="432.5" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="W2m1-UBFcEdi1l8f8y74-33" value="External Analysis&lt;br&gt;Program" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;" parent="W2m1-UBFcEdi1l8f8y74-1" vertex="1">
@@ -1361,7 +1361,7 @@
         <mxCell id="W2m1-UBFcEdi1l8f8y74-69" value="Rule-Base&lt;br&gt;Analysis" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="W2m1-UBFcEdi1l8f8y74-1" vertex="1">
           <mxGeometry x="471" y="368" width="100" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="W2m1-UBFcEdi1l8f8y74-70" value="&lt;font size=&quot;1&quot;&gt;Message&lt;br&gt;Queue&lt;br&gt;&lt;br&gt;(Rabbit&lt;br&gt;MQ)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="W2m1-UBFcEdi1l8f8y74-1" vertex="1">
+        <mxCell id="W2m1-UBFcEdi1l8f8y74-70" value="&lt;font size=&quot;1&quot;&gt;Message&lt;br&gt;Queue&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="W2m1-UBFcEdi1l8f8y74-1" vertex="1">
           <mxGeometry x="380" y="360" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="W2m1-UBFcEdi1l8f8y74-71" value="External Analysis&lt;br&gt;Program" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="W2m1-UBFcEdi1l8f8y74-1" vertex="1">
