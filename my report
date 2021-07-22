@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T12:23:44.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="jHNpLE7s_glNt9d2TFzH" version="14.9.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-07-22T12:24:01.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="hXonESTMszJthhKv38s3" version="14.9.0" type="github" pages="12">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="1017" dy="927" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2633,13 +2633,13 @@
           <mxGeometry x="931" y="305" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1SmVT4Znptu4u5MCVPGG-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ConnectInterface&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getRepositoryType (): void&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ makeRepository(RepoVO): void&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1SmVT4Znptu4u5MCVPGG-1">
-          <mxGeometry x="580" y="282" width="190" height="140" as="geometry" />
+          <mxGeometry x="541" y="234" width="190" height="140" as="geometry" />
         </mxCell>
         <mxCell id="1SmVT4Znptu4u5MCVPGG-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ConnectRepositorySystem&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1SmVT4Znptu4u5MCVPGG-1">
-          <mxGeometry x="696" y="489" width="160" height="90" as="geometry" />
+          <mxGeometry x="657" y="441" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1SmVT4Znptu4u5MCVPGG-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ConnectAdapter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1SmVT4Znptu4u5MCVPGG-1">
-          <mxGeometry x="513" y="489" width="160" height="90" as="geometry" />
+          <mxGeometry x="474" y="441" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1SmVT4Znptu4u5MCVPGG-11" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;AdvancedConnect&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getRepositoryNexus() :void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getRepositoryArtifactory() :void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1SmVT4Znptu4u5MCVPGG-1">
           <mxGeometry x="-207" y="489" width="193" height="90" as="geometry" />
