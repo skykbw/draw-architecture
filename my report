@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T10:10:36.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="K_b3bM51Q7LWzQJb6CAS" version="14.9.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-07-22T10:31:19.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="AAVWA-Y1LssgP9G_SJi_" version="14.9.0" type="github" pages="10">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="1017" dy="927" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -426,7 +426,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SUsk-yiJMDt30KH15AHg" name="개념 아키텍처">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1220" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="oJ4WSkkrzcf0gm-6qFZH-0" />
         <mxCell id="oJ4WSkkrzcf0gm-6qFZH-1" parent="oJ4WSkkrzcf0gm-6qFZH-0" />
@@ -676,7 +676,7 @@
         <mxCell id="bckJ7OOhRSzVPWSnWCbG-95" value="Jenkins" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="oJ4WSkkrzcf0gm-6qFZH-1" vertex="1">
           <mxGeometry x="620" y="636.5" width="120" height="24.5" as="geometry" />
         </mxCell>
-        <mxCell id="bckJ7OOhRSzVPWSnWCbG-96" value="JWT" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="oJ4WSkkrzcf0gm-6qFZH-1" vertex="1">
+        <mxCell id="bckJ7OOhRSzVPWSnWCbG-96" value="OAuth" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="oJ4WSkkrzcf0gm-6qFZH-1" vertex="1">
           <mxGeometry x="620" y="698.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bckJ7OOhRSzVPWSnWCbG-97" value="Monitoring&lt;br&gt;(prometheus, grafana)" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="oJ4WSkkrzcf0gm-6qFZH-1" vertex="1">
@@ -731,7 +731,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="(번호) 개념 아키텍처" id="nFc-Xq4XURPCupAWR3lb">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1220" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="W2m1-UBFcEdi1l8f8y74-0" />
         <mxCell id="W2m1-UBFcEdi1l8f8y74-1" parent="W2m1-UBFcEdi1l8f8y74-0" />
@@ -981,7 +981,7 @@
         <mxCell id="W2m1-UBFcEdi1l8f8y74-78" value="Jenkins" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="W2m1-UBFcEdi1l8f8y74-1" vertex="1">
           <mxGeometry x="620" y="636.5" width="120" height="24.5" as="geometry" />
         </mxCell>
-        <mxCell id="W2m1-UBFcEdi1l8f8y74-79" value="JWT" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="W2m1-UBFcEdi1l8f8y74-1" vertex="1">
+        <mxCell id="W2m1-UBFcEdi1l8f8y74-79" value="OAuth" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="W2m1-UBFcEdi1l8f8y74-1" vertex="1">
           <mxGeometry x="620" y="698.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W2m1-UBFcEdi1l8f8y74-80" value="Monitoring&lt;br&gt;(prometheus, grafana)" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="W2m1-UBFcEdi1l8f8y74-1" vertex="1">
