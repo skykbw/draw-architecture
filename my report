@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T10:08:50.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="Nc5ENt6JLtzk58pwPf50" version="14.9.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2021-07-25T10:09:31.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="KwM0f1yMFMInxC-OsMIZ" version="14.9.1" type="github" pages="15">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="1220" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1105,7 +1105,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V8gWUC4URuNM3k1NX-to" name="시나리오1">
-    <mxGraphModel dx="2452" dy="935" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1017" dy="927" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PM9OvxG8A4IlOT5kqzDo-0" />
         <mxCell id="PM9OvxG8A4IlOT5kqzDo-1" parent="PM9OvxG8A4IlOT5kqzDo-0" />
@@ -3043,7 +3043,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UBOhPwscELf2KOAgKiIG" name="alarm">
-    <mxGraphModel dx="1116" dy="1327" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1017" dy="1327" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="2oaOwWnIT1YYxFRM_yB8-0" />
         <mxCell id="2oaOwWnIT1YYxFRM_yB8-1" parent="2oaOwWnIT1YYxFRM_yB8-0" />
@@ -3237,6 +3237,14 @@
         <mxCell id="_atygtor3dSaFysXOQqo-16" value="Common&lt;br&gt;Service" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=30;tabHeight=12;tabPosition=left;html=1;sketch=0;strokeColor=#000000;strokeWidth=1;align=left;verticalAlign=top;" vertex="1" parent="2oaOwWnIT1YYxFRM_yB8-1">
           <mxGeometry x="405" y="817.5" width="90" height="62" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wQM0mQ376qn4jEbBYewO" name="실행 아키텍처">
+    <mxGraphModel dx="1017" dy="927" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="lh6R81nRoaG6PHgbkI_z-0" />
+        <mxCell id="lh6R81nRoaG6PHgbkI_z-1" parent="lh6R81nRoaG6PHgbkI_z-0" />
       </root>
     </mxGraphModel>
   </diagram>
