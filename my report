@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T04:07:45.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="IAHTa0EX9iAv-a_486Yq" version="14.9.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-07-25T04:08:16.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="PmBHKeMuARSeTpSAQNm-" version="14.9.1" type="github" pages="12">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="1220" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -426,7 +426,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SUsk-yiJMDt30KH15AHg" name="개념 아키텍처">
-    <mxGraphModel dx="1220" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2942" dy="1122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="oJ4WSkkrzcf0gm-6qFZH-0" />
         <mxCell id="oJ4WSkkrzcf0gm-6qFZH-1" parent="oJ4WSkkrzcf0gm-6qFZH-0" />
@@ -731,7 +731,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="(번호) 개념 아키텍처" id="nFc-Xq4XURPCupAWR3lb">
-    <mxGraphModel dx="1220" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2942" dy="1122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="W2m1-UBFcEdi1l8f8y74-0" />
         <mxCell id="W2m1-UBFcEdi1l8f8y74-1" parent="W2m1-UBFcEdi1l8f8y74-0" />
@@ -1915,7 +1915,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2sTQ-mgJJNRq8MamU0CM" name="모듈 뷰">
-    <mxGraphModel dx="1220" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2942" dy="1122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7u0NrXOBvpeQkVAJWc-c-0" />
         <mxCell id="7u0NrXOBvpeQkVAJWc-c-1" parent="7u0NrXOBvpeQkVAJWc-c-0" />
@@ -1956,7 +1956,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ej0RZitiXVzpK2LEUCJk" name="Web ">
-    <mxGraphModel dx="1220" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2942" dy="1122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VIIgNPEn0UwpRK73NmCw-0" />
         <mxCell id="VIIgNPEn0UwpRK73NmCw-1" parent="VIIgNPEn0UwpRK73NmCw-0" />
@@ -2474,7 +2474,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eVd5rVFbikI4OPS5lHne-4" value="Connect&lt;br&gt;Layer" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=30;tabHeight=12;tabPosition=left;html=1;sketch=0;strokeColor=#000000;strokeWidth=1;align=left;verticalAlign=top;" parent="yWJ2cSoOhdM6Kh4XzqbG-1" vertex="1">
+        <mxCell id="eVd5rVFbikI4OPS5lHne-4" value="Connect&lt;br&gt;Module" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=30;tabHeight=12;tabPosition=left;html=1;sketch=0;strokeColor=#000000;strokeWidth=1;align=left;verticalAlign=top;" parent="yWJ2cSoOhdM6Kh4XzqbG-1" vertex="1">
           <mxGeometry x="249.5" y="1924" width="90" height="62" as="geometry" />
         </mxCell>
         <mxCell id="WNcaMrP1PXXhsLNLOd0x-6" value="&amp;lt;&amp;lt;fucntion call&amp;gt;&amp;gt;" style="endArrow=classic;html=1;entryX=0;entryY=0;entryDx=0;entryDy=37;entryPerimeter=0;dashed=1;" parent="yWJ2cSoOhdM6Kh4XzqbG-1" edge="1">
