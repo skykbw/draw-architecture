@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T12:04:15.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="gxK_VH6LCtdL9bS1k9IR" version="14.9.1" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2021-07-25T13:48:13.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="VqCulAKv1c6Awz1ckmTO" version="14.9.1" type="github" pages="15">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
-    <mxGraphModel dx="1220" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fdzLyvjmo3vogAeCWDQ6" name="DB">
-    <mxGraphModel dx="1220" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GGUY-SIuTG2rfS5HdKxS-0" />
         <mxCell id="GGUY-SIuTG2rfS5HdKxS-1" parent="GGUY-SIuTG2rfS5HdKxS-0" />
@@ -426,7 +426,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SUsk-yiJMDt30KH15AHg" name="개념 아키텍처">
-    <mxGraphModel dx="1329" dy="793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="oJ4WSkkrzcf0gm-6qFZH-0" />
         <mxCell id="oJ4WSkkrzcf0gm-6qFZH-1" parent="oJ4WSkkrzcf0gm-6qFZH-0" />
@@ -715,7 +715,7 @@
         <mxCell id="bckJ7OOhRSzVPWSnWCbG-110" value="Sub-Layer" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="oJ4WSkkrzcf0gm-6qFZH-1" vertex="1">
           <mxGeometry x="837" y="197.5" width="63" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bckJ7OOhRSzVPWSnWCbG-111" value="Service&lt;br&gt;Solution" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="oJ4WSkkrzcf0gm-6qFZH-1" vertex="1">
+        <mxCell id="bckJ7OOhRSzVPWSnWCbG-111" value="Module &amp;amp;&lt;br&gt;Solution" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="oJ4WSkkrzcf0gm-6qFZH-1" vertex="1">
           <mxGeometry x="837" y="227.5" width="63" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="bckJ7OOhRSzVPWSnWCbG-112" value="Database" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="oJ4WSkkrzcf0gm-6qFZH-1" vertex="1">
@@ -1105,7 +1105,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V8gWUC4URuNM3k1NX-to" name="시나리오1">
-    <mxGraphModel dx="1017" dy="927" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PM9OvxG8A4IlOT5kqzDo-0" />
         <mxCell id="PM9OvxG8A4IlOT5kqzDo-1" parent="PM9OvxG8A4IlOT5kqzDo-0" />
@@ -3241,12 +3241,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wQM0mQ376qn4jEbBYewO" name="실행 아키텍처">
-    <mxGraphModel dx="1417" dy="927" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1585" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lh6R81nRoaG6PHgbkI_z-0" />
         <mxCell id="lh6R81nRoaG6PHgbkI_z-1" parent="lh6R81nRoaG6PHgbkI_z-0" />
         <mxCell id="cR-gu0xi5p3JIlxDwpMQ-82" value="&lt;font color=&quot;#000000&quot;&gt;Notation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#007FFF;verticalAlign=top;" vertex="1" parent="lh6R81nRoaG6PHgbkI_z-1">
-          <mxGeometry x="543.5" y="1276" width="135.5" height="158" as="geometry" />
+          <mxGeometry x="543.5" y="1276" width="135.5" height="192" as="geometry" />
         </mxCell>
         <mxCell id="Y4FgfWTf7hz5eDqT60K--10" value="" style="html=1;" vertex="1" parent="lh6R81nRoaG6PHgbkI_z-1">
           <mxGeometry x="554.5" y="1343.5" width="48" height="23" as="geometry" />
@@ -3724,6 +3724,15 @@
         </mxCell>
         <mxCell id="Y4FgfWTf7hz5eDqT60K--9" value="" style="html=1;" vertex="1" parent="lh6R81nRoaG6PHgbkI_z-1">
           <mxGeometry x="547.5" y="1351" width="48" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4FgfWTf7hz5eDqT60K--11" value="" style="endArrow=classic;html=1;fontColor=#CC0000;" edge="1" parent="lh6R81nRoaG6PHgbkI_z-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="557" y="1440" as="sourcePoint" />
+            <mxPoint x="600" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y4FgfWTf7hz5eDqT60K--12" value="&lt;font color=&quot;#000000&quot;&gt;REST API&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#007FFF;" vertex="1" parent="lh6R81nRoaG6PHgbkI_z-1">
+          <mxGeometry x="605" y="1430" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
