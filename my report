@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T10:10:13.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="xkCTlX9dcm93uz_jeKcg" version="14.9.1" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2021-07-25T10:13:46.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="CXzISV-hNc1LmJp2cQ44" version="14.9.1" type="github" pages="15">
   <diagram id="ezWI7CJgJUFeaFtcQZDf" name="Use-case">
     <mxGraphModel dx="1220" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1959,7 +1959,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ej0RZitiXVzpK2LEUCJk" name="Web ">
-    <mxGraphModel dx="1339" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1220" dy="1112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VIIgNPEn0UwpRK73NmCw-0" />
         <mxCell id="VIIgNPEn0UwpRK73NmCw-1" parent="VIIgNPEn0UwpRK73NmCw-0" />
@@ -2430,7 +2430,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zM8__VjoTnKOouSeYEEZ" name="Repository, Permission">
-    <mxGraphModel dx="1116" dy="-673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1017" dy="-673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yWJ2cSoOhdM6Kh4XzqbG-0" />
         <mxCell id="yWJ2cSoOhdM6Kh4XzqbG-1" parent="yWJ2cSoOhdM6Kh4XzqbG-0" />
@@ -2540,7 +2540,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1Y6dBxMuu4q585DkQB30" name="Common Module">
-    <mxGraphModel dx="1339" dy="-57" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1220" dy="-57" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="FmCLj7Xh6YWhL18544H8-0" />
         <mxCell id="FmCLj7Xh6YWhL18544H8-1" parent="FmCLj7Xh6YWhL18544H8-0" />
@@ -2653,7 +2653,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9v3HKO7a1ZsjHKPhNQtI" name="Connect">
-    <mxGraphModel dx="1916" dy="1727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1817" dy="1727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="1SmVT4Znptu4u5MCVPGG-0" />
         <mxCell id="1SmVT4Znptu4u5MCVPGG-1" parent="1SmVT4Znptu4u5MCVPGG-0" />
@@ -3245,6 +3245,30 @@
       <root>
         <mxCell id="lh6R81nRoaG6PHgbkI_z-0" />
         <mxCell id="lh6R81nRoaG6PHgbkI_z-1" parent="lh6R81nRoaG6PHgbkI_z-0" />
+        <mxCell id="_gWIEciDPUIMO8H5OOPM-0" value="Service Layer" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;horizontal=1;verticalAlign=top;align=left;" vertex="1" parent="lh6R81nRoaG6PHgbkI_z-1">
+          <mxGeometry x="120" y="230" width="454" height="278" as="geometry" />
+        </mxCell>
+        <mxCell id="_gWIEciDPUIMO8H5OOPM-1" value="Repository&lt;br&gt;Module" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;align=left;verticalAlign=top;" vertex="1" parent="lh6R81nRoaG6PHgbkI_z-1">
+          <mxGeometry x="165" y="282" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_gWIEciDPUIMO8H5OOPM-2" value="Connect&lt;br&gt;Module" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;align=left;verticalAlign=top;" vertex="1" parent="lh6R81nRoaG6PHgbkI_z-1">
+          <mxGeometry x="165" y="393" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_gWIEciDPUIMO8H5OOPM-3" value="Permission&lt;br&gt;Module" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;align=left;verticalAlign=top;" vertex="1" parent="lh6R81nRoaG6PHgbkI_z-1">
+          <mxGeometry x="305" y="284" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_gWIEciDPUIMO8H5OOPM-4" value="Download&lt;br&gt;Module" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;align=left;verticalAlign=top;" vertex="1" parent="lh6R81nRoaG6PHgbkI_z-1">
+          <mxGeometry x="305" y="393" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_gWIEciDPUIMO8H5OOPM-5" value="Common&lt;br&gt;Module" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;align=left;verticalAlign=top;" vertex="1" parent="lh6R81nRoaG6PHgbkI_z-1">
+          <mxGeometry x="442" y="282" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_gWIEciDPUIMO8H5OOPM-6" value="Alarm&lt;br&gt;Module" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;align=left;verticalAlign=top;" vertex="1" parent="lh6R81nRoaG6PHgbkI_z-1">
+          <mxGeometry x="442" y="393" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cR-gu0xi5p3JIlxDwpMQ-0" value="&lt;b&gt;&lt;font color=&quot;#006600&quot;&gt;Repository Service&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;align=center;verticalAlign=top;opacity=40;strokeColor=#82b366;" vertex="1" parent="lh6R81nRoaG6PHgbkI_z-1">
+          <mxGeometry x="145" y="259" width="140" height="109" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
